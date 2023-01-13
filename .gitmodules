@@ -1,0 +1,10 @@
+
+[submodule "github/rust-lang/rustlings"]
+	path = github/rust-lang/rustlings
+	url = git@github.com:rust-lang/rustlings.git
+[submodule "github/rust-lang/rust-by-example"]
+	path = github/rust-lang/rust-by-example
+	url = git@github.com:rust-lang/rust-by-example.git
+[submodule "github/lencx/rust-fe"]
+	path = github/lencx/rust-fe
+	url = git@github.com:lencx/rust-fe.git
